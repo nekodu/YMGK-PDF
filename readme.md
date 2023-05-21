@@ -1,3 +1,5 @@
+#16541021 G. Efe Kaplan
+![Alt Text](images/Screenshot_6.png)
 # Amaç
 
 Bu projede amaçlanan istediğiniz bir pdf'i yükleyip daha sonrasında o belgeye ChatGPT-4'ü kullanarak sorular sorabilmenizi mümkün kılmaktır.
